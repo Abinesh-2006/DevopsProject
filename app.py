@@ -6,3 +6,4 @@ def home():
     return "Hello DevOps 🚀"
 
 app.run(host='0.0.0.0', port=5000)
+return "CI/CD Working 🚀"
